@@ -7,7 +7,7 @@
     flex: 1; /*divido o espaco ocupando 1 parte cada*/
 }
 .lifebar {
-    height: 10px;
+    height: 20px;
     border: 1px solid #333;
     border-radius: 5px;
 }
